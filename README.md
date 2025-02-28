@@ -27,7 +27,9 @@ I am a **Full Stack Developer** with a **Master's in Computer Software Engineeri
 ---
 
 ### Let's Connect:
-- 📧 [Email](mailto:dalvi.ga@northeastern.edu)
-- 🌐 [GitHub](https://github.com/GayatriDalvi)
+
+Github Link : https://github.com/gdalvi94
+
+Email id : dalvi.ga@northeastern.edu
 
 Feel free to reach out, I'm always open to collaborating and connecting with fellow developers! 😊
