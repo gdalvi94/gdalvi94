@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Gayatri Dalvi
 
-I am a **Full Stack Developer** with a **Master's in Computer Software Engineering** from **Northeastern University**, specializing in building scalable, secure, and high-performance web applications. My hands-on experience spans across a range of technologies, including **Java**, **Python**, **React.js**, **Node.js**, and **AWS services**. I have developed expertise in creating **end-to-end solutions**, from the back-end to the front-end, ensuring smooth integration and optimized performance.
+I am a **Full Stack Developer** with a **Master's in Computer Software Engineering** from **Northeastern University**, specializing in building scalable, secure, and high-performance web applications. My hands-on experience spans across a range of technologies, including **Java**, **Python**, **React.js**, **Node.js**, **MySQL** and **AWS services**. I have developed expertise in creating **end-to-end solutions**, from the back-end to the front-end, ensuring smooth integration and optimized performance.
 
 ---
 
